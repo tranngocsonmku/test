@@ -1,0 +1,14 @@
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.QLNongTrai.resources
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.Resources.resources
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.vbproj.GenerateResource.cache
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.vbproj.CoreCompileInputs.cache
+D:\Sotra\Wins\bin\QLNongTrai.exe.config
+D:\Sotra\Wins\bin\QLNongTrai.exe
+D:\Sotra\Wins\bin\QLNongTrai.pdb
+D:\Sotra\Wins\bin\QLNongTrai.xml
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.exe
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.xml
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.pdb
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.vbprojAssemblyReference.cache
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.vbproj.CopyComplete
+D:\Sotra\QLNongTrai\QLNongTrai\obj\Debug\QLNongTrai.vbproj.ResolveComReference.cache
